@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+body {
+    background-color: black;
+    color: white;
+    h1 {
+        font-family: "Shadows Into Light", "Trebuchet MS", Arial;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    #display {
+        font-family: "Trebuchet MS", Arial;
+        padding-left: 20px;
+        padding-right: 20px;
+        .scores {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .buttons {
+            margin-left: 10px;
+            margin-right: 10px;
+            color: black;
+            float: right;
+        }
+    }
+}

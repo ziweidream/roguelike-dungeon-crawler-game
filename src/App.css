@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light");
+body {
+  background-color: black;
+  color: white;
+}
+
+body h1 {
+  font-family: "Shadows Into Light", "Trebuchet MS", Arial;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+body #display {
+  font-family: "Trebuchet MS", Arial;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+body #display .scores {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+body #display .buttons {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: black;
+  float: right;
+}
+/*# sourceMappingURL=App.css.map */
